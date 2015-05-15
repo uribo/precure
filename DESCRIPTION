@@ -1,0 +1,12 @@
+Package: precure
+Type: Package
+Title: Pretty Cure Color Palette for R
+Version: 0.1
+Date: 2015-05-05
+Author: Shinya Uryu
+Authors@R: person("Shinya", "Uryu", email = "suika1127@gmail.com", role = c("aut", "cre"))
+Description: Palettes provide from Pretty Cure series that Japanese animation.
+License: MIT + file LICENSE
+LazyData: TRUE
+URL: https://github.com/uribo/precure
+BugReports: https://github.com/uribo/precure/issues
